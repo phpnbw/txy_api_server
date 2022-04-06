@@ -1,0 +1,5 @@
+/.idea
+/vendor
+*.log
+/doc
+/.vscode
